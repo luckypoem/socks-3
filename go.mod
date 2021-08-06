@@ -1,4 +1,4 @@
-module h12.io/socks
+module github.com/luckypoem/socks-3
 
 go 1.9
 
